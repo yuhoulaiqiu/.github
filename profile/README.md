@@ -29,4 +29,4 @@
 
 ### 联系
 
-如果想要加入我们，欢迎联系 lanshan@lanshan.team
+如果想要加入我们，欢迎联系 lanshan@lanshan.email
