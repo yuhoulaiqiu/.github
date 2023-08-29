@@ -24,6 +24,7 @@
 
 - [LanUI](https://github.com/LanshanTeam/LanUI) - 基于 storybook，由 React + TypeScriptJest + jest + React Testing Library 开发的组件库
 - [common-rs](https://github.com/LanshanTeam/common-rs) - Rust 后端通用包
+- [DepSpy](https://github.com/DepSpy/depspy) - 具有能够按照任意深度潜入分析和监视其他 npm/ yarn/ pnpm 依赖的能力，并提供状态同步的各类可视化交互页面，以及本地 CLI 和线上查询两种方式。
 
 在评估后会陆续开源内部使用的框架与中间件，敬请期待...
 
