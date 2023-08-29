@@ -10,4 +10,4 @@
 
 工作室包含产品及运营部、前端开发部、后端研发部（Java、Go、Rust 方向）、UI 创意部和运维安全部。
 
-如果想要加入我们，欢迎联系我们 lanshan@lanshan.team
+如果想要加入我们，欢迎联系 lanshan@lanshan.team
