@@ -12,7 +12,7 @@
 
 工作室包含产品及运营部、前端开发部、后端研发部（Java、Go、Rust 方向）、UI 创意部和运维安全部。
 
-![organization-architecture.svg](organization-architecture.svg)
+![organization-architecture.svg](./profile/organization-architecture.svg)
 
 ### 开源
 
