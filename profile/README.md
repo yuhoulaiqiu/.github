@@ -21,7 +21,7 @@
 
 | 前端                                                         | 后端（Go）                                                   | 后端（Java）                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [前端 2022~2023](https://github.com/LanshanTeam/Courseware-Frontend-2022) | [Go 2022~2023](https://github.com/LanshanTeam/Courseware-Backend-Go-2022) | [Java 2023~2024](https://github.com/LanshanTeam/Courseware-Backend-Java-2023) |
+| [前端 2022~2023](https://github.com/LanshanTeam/Courseware-Frontend-2022) | [Go 2024~2025](https://github.com/LanshanTeam/Courseware-Backend-Go-2024) | [Java 2024~2025](https://github.com/LanshanTeam/Courseware-Backend-Java-2024) |
 
 #### 框架与工具
 
